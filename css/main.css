@@ -478,7 +478,7 @@ body {
   transition: background-image var(--transition), border-color var(--transition);
 }
 
-.filter__list {
+.filter {
   display: flex;
   justify-content: center;
   margin-bottom: 50px;
